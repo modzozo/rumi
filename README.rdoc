@@ -10,7 +10,7 @@ Gem will output a random quote by the Persian mystical poet Rumi.
   
 == Usage
 
-	require 'rubygems'
-	require 'rumi'
-	
-	Rumi.quote  # outputs a random Rumi quote
+  require 'rubygems'
+  require 'rumi'
+
+  Rumi.quote  # outputs a random Rumi quote
