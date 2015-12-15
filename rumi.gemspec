@@ -2,15 +2,15 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rumi}
-  s.version = "0.0.1"
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["Wiehann Radyn"]
-  s.date = %q{2010-08-20}
+  s.date = %q{2010-08-26}
   s.description = %q{Gem will output a random quote by the Persian mystical poet Rumi.}
   s.email = %q{wradyn@gmail.com}
   s.extra_rdoc_files = ["README.rdoc", "lib/rumi.rb"]
-  s.files = ["README.rdoc", "Rakefile", "lib/rumi.rb", "Manifest", "rumi.gemspec"]
+  s.files = ["README.rdoc", "Rakefile", "lib/rumi.rb", "rumi.gemspec", "Manifest"]
   s.homepage = %q{http://github.com/wiehann/rumi}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Rumi", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
